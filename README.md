@@ -24,8 +24,8 @@ This planet pack includes a variety of worlds, from a world melting near the sta
   * 1.0 - Parallax Support, Full Release
 
 # Requirements
-* VertexMitchellNetravaliHeightMap
-* VertexColorMapEmissive
+* VertexMitchellNetravaliHeightMap (Included)
+* VertexColorMapEmissive (Included)
 * Kopernicus and its dependicies (latest version)
 * Modulemanager (latest version)
 
