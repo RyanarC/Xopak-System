@@ -1,7 +1,7 @@
-# The Xopak System
+
 ![XopakTitle](https://github.com/user-attachments/assets/84165c80-ff0a-4532-bc17-57a100f87824)
 
-
+# The Xopak System
 The Xopak System, inspired by my own system of creation, is a planetary system pack that includes 30 bodies, including 14 planets, 15 moons, and one comet. The system is primarily set light years away, but scaled down from 50 light years to 5 light years in 1/11 scale, or 4,300,332,032,991.270 kilometers away from Kerbol in-game.
 
 This mod is in active development, and will be updated as soon as I have the time to.
@@ -22,13 +22,13 @@ This planet pack includes a variety of worlds, from a world melting near the sta
   *  Dwarf Planets Part 1
   *  Dwarf Planets Part 2
   * 1.0 - Parallax Support, Full Release
-* This also includes a Wiki, but it is in a WIP state.
+* This also includes a Wiki in the GitHub page, but it is in a WIP state.
 
 # Requirements
 * VertexMitchellNetravaliHeightMap (Included)
 * VertexColorMapEmissive (Included)
-* Kopernicus and its dependicies (latest version)
-* Modulemanager (latest version)
+* Kopernicus and its dependencies (latest version)
+* ModuleManager (latest version)
 
 # Compatibility
 * Distant Object Enhancement
@@ -43,10 +43,10 @@ This planet pack includes a variety of worlds, from a world melting near the sta
 * Maybe other mods, ask and I will think about it.
 
 # Recommended Mods
-* Enviormental Visual Enhancements
+* Environmental Visual Enhancements
 * Scatterer (latest version)
-* Blackrack's Volummetric clouds (Will provide support for 2D clouds soon)
+* Blackrack's Volumetric clouds (Will provide support for 2D clouds soon)
 * Future Part Mods (Near/Far Future Tech, KSPIE, Sterling Systems)
 
 # Licensing
-* Xopak System is licensed by Attribution-NonCommercial-NoDerivs 4.0 International (CC BY-NC-ND 4.0).
+* The Xopak System is licensed by Attribution-NonCommercial-NoDerivs 4.0 International (CC BY-NC-ND 4.0).
