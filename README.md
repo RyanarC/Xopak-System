@@ -49,4 +49,4 @@ This planet pack includes a variety of worlds, from a world melting near the sta
 * Future Part Mods (Near/Far Future Tech, KSPIE, Sterling Systems)
 
 # Licensing
-* Xopak System is licensed by Attribution-NonCommercial-NoDerivs 3.0 Unported (CC BY-NC-ND 3.0).
+* Xopak System is licensed by Attribution-NonCommercial-NoDerivs 4.0 International (CC BY-NC-ND 4.0).
