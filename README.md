@@ -22,6 +22,7 @@ This planet pack includes a variety of worlds, from a world melting near the sta
   *  Dwarf Planets Part 1
   *  Dwarf Planets Part 2
   * 1.0 - Parallax Support, Full Release
+* This also includes a Wiki, but it is in a WIP state.
 
 # Requirements
 * VertexMitchellNetravaliHeightMap (Included)
