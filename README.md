@@ -16,7 +16,7 @@ This planet pack includes a variety of worlds, from a world melting near the sta
 * This mod is in active development as of July 17th, 2024.
 * This mod only includes the inner system planets, and I plan to add next according to the Roadmap below:
   * 0.1 - Inner Planets
-  * 0.11 - MCWS Compatibility
+  * 0.1.1 - MCWS Compatibility
   *  Outer Planets
   *  Inner Moons
   *  Outer Moons
