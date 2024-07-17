@@ -13,9 +13,10 @@ This planet pack includes a variety of worlds, from a world melting near the sta
 - Taken with EVE, Scatterer, Blackrack's Volumetric Clouds, TUFX, and Deferred Rendering.
 
 # Notes
-* This mod is in active development as of July 15th, 2024.
+* This mod is in active development as of July 17th, 2024.
 * This mod only includes the inner system planets, and I plan to add next according to the Roadmap below:
   * 0.1 - Inner Planets
+  * 0.11 - MCWS Compatibility
   *  Outer Planets
   *  Inner Moons
   *  Outer Moons
@@ -34,13 +35,13 @@ This planet pack includes a variety of worlds, from a world melting near the sta
 # Compatibility
 * Distant Object Enhancement
 * Deferred Rendering
+* MCWS (Modular Climate Weather Systems, for climates and wind)
 
 # To-Do Compatibility
 * Parallax
 * Kerbalism
 * ResearchBodies
 * Rational Resources
-* MCWS (Modular Climate Weather Systems, for climates and wind)
 * Maybe other mods, ask and I will think about it.
 
 # Recommended Mods
