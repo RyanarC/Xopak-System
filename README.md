@@ -29,6 +29,7 @@ This planet pack includes a variety of worlds, from a world melting near the sta
 * VertexColorMapEmissive (Included)
 * Kopernicus and its dependencies (latest version)
 * ModuleManager (latest version)
+* Community Terrain Texture Pack
 
 # Compatibility
 * Distant Object Enhancement
