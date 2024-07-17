@@ -2,7 +2,7 @@
 ![XopakTitle](https://github.com/user-attachments/assets/84165c80-ff0a-4532-bc17-57a100f87824)
 
 # The Xopak System
-The Xopak System, inspired by my own system of creation, is a planetary system pack that includes 30 bodies, including 14 planets, 15 moons, and one comet. The system is primarily set light years away, but scaled down from 50 light years to 5 light years in 1/11 scale, or 4,300,332,032,991.270 kilometers away from Kerbol in-game.
+The Xopak System, inspired by my own system of creation, is a planetary system pack that includes 30 bodies, including 14 planets, 15 moons, and one comet. The system is primarily set light years away, but scaled down from 50 light years to 4.55 light years in 1/11 scale, or 43,000,000,000,000 Kilometers away from Kerbol in-game.
 
 This mod is in active development, and will be updated as soon as I have the time to.
 
